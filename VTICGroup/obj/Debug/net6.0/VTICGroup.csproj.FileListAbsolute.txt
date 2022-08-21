@@ -1,0 +1,8 @@
+/Users/xakimov/Desktop/Vatanparvar/VTICGroup/VTICGroup/obj/Debug/net6.0/VTICGroup.csproj.AssemblyReference.cache
+/Users/xakimov/Desktop/Vatanparvar/VTICGroup/VTICGroup/obj/Debug/net6.0/VTICGroup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Desktop/Vatanparvar/VTICGroup/VTICGroup/obj/Debug/net6.0/VTICGroup.AssemblyInfoInputs.cache
+/Users/xakimov/Desktop/Vatanparvar/VTICGroup/VTICGroup/obj/Debug/net6.0/VTICGroup.AssemblyInfo.cs
+/Users/xakimov/Desktop/Vatanparvar/VTICGroup/VTICGroup/obj/Debug/net6.0/VTICGroup.csproj.CoreCompileInputs.cache
+/Users/xakimov/Desktop/Vatanparvar/VTICGroup/VTICGroup/obj/Debug/net6.0/VTICGroup.MvcApplicationPartsAssemblyInfo.cache
+/Users/xakimov/Desktop/Vatanparvar/VTICGroup/VTICGroup/obj/Debug/net6.0/VTICGroup.RazorAssemblyInfo.cache
+/Users/xakimov/Desktop/Vatanparvar/VTICGroup/VTICGroup/obj/Debug/net6.0/VTICGroup.RazorAssemblyInfo.cs
